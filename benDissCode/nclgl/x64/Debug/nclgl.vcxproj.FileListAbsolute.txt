@@ -1,0 +1,2 @@
+C:\Users\Ben\Documents\Uni\Masters\GraphicsCodeBase\x64\Debug\nclgl.pdb
+C:\Users\Ben\Documents\Uni\Masters\GraphicsCodeBase\nclgl\x64\Debug\nclgl.pdb

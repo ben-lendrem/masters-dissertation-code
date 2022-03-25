@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GameTimer.cpp" />
+    <ClCompile Include="Mesh.cpp" />
+    <ClCompile Include="MeshAnimation.cpp" />
+    <ClCompile Include="MeshMaterial.cpp" />
+    <ClCompile Include="OGLRenderer.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="..\Third Party\glad\glad.c">
+      <Filter>GLAD</Filter>
+    </ClCompile>
+    <ClCompile Include="ComputeShader.cpp" />
+    <ClCompile Include="Matrix2.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix3.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix4.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="Quaternion.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Windows and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Windows and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Windows and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Tutorial Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneNode.cpp">
+      <Filter>Tutorial Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeRobot.cpp">
+      <Filter>Tutorial Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>Tutorial Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Frustrum.cpp">
+      <Filter>Tutorial Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeightMap.cpp">
+      <Filter>Tutorial Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Tutorial Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>DissertationFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Emitter.cpp">
+      <Filter>DissertationFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>DissertationFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadParticleSystem.cpp">
+      <Filter>DissertationFiles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h" />
+    <ClInclude Include="GameTimer.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="MeshAnimation.h" />
+    <ClInclude Include="MeshMaterial.h" />
+    <ClInclude Include="OGLRenderer.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="ComputeShader.h" />
+    <ClInclude Include="Matrix2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>Windows and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Windows and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Windows and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="InputDevice.h">
+      <Filter>Windows and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Tutorial Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneNode.h">
+      <Filter>Tutorial Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeRobot.h">
+      <Filter>Tutorial Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>Tutorial Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Frustrum.h">
+      <Filter>Tutorial Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeightMap.h">
+      <Filter>Tutorial Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Tutorial Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>DissertationFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Emitter.h">
+      <Filter>DissertationFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>DissertationFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadParticleSystem.h">
+      <Filter>DissertationFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadFunction.h">
+      <Filter>DissertationFiles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GLAD">
+      <UniqueIdentifier>{b2f2e4a3-f5c5-4809-836e-819a6234e480}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Maths">
+      <UniqueIdentifier>{fa6a3a39-359c-4394-b797-c66f4ed7c29d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows and Input">
+      <UniqueIdentifier>{4a13117a-c481-4385-bd9e-1acd65146a21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{f478c29e-58b6-4fcd-a8ba-21a736afc8ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tutorial Files">
+      <UniqueIdentifier>{336a97fb-d6d0-437d-94df-3a01cfcc87a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DissertationFiles">
+      <UniqueIdentifier>{f0209008-1bb6-432a-82c0-58b017bed655}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\1) Your First Triangle\basicVertex.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\1) Your First Triangle\colourFragment.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

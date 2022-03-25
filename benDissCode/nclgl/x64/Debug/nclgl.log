@@ -1,0 +1,43 @@
+﻿  glad.c
+  Camera.cpp
+  ComputeShader.cpp
+  CubeRobot.cpp
+  Emitter.cpp
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ParticleSystem.h(35,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Frustrum.cpp
+  GameTimer.cpp
+  HeightMap.cpp
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\HeightMap.cpp(25,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\HeightMap.cpp(25,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\HeightMap.cpp(26,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\HeightMap.cpp(26,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Keyboard.cpp
+  Light.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\Mesh.cpp(578,20): warning C4018: '<': signed/unsigned mismatch
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+  Particle.cpp
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ParticleSystem.h(35,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ParticleSystem.cpp
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ParticleSystem.h(35,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ParticleSystem.cpp(121,63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ParticleSystem.cpp(121,54): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ParticleSystem.cpp(121,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Plane.cpp
+  Generating Code...
+  Compiling...
+  Quaternion.cpp
+  SceneNode.cpp
+  Shader.cpp
+  ThreadParticleSystem.cpp
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ParticleSystem.h(35,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\PortfolioProjs\MastersProj\benDissCode\nclgl\ThreadParticleSystem.cpp(173,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Window.cpp
+  Generating Code...
+  nclgl.vcxproj -> D:\PortfolioProjs\MastersProj\benDissCode\x64\Debug\nclgl.lib
